@@ -1,1 +1,1 @@
-# mule_practice_repo
+# mule-practice-repo
